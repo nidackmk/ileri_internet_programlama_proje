@@ -1,0 +1,8 @@
+Sunucu başlatıldı. Port: 12345
+Yeni istemci bağlandı.
+Yeni istemci bağlandı.
+İstemci ayrıldı: /127.0.0.1
+Yeni istemci bağlandı.
+İstemci ayrıldı: /127.0.0.1
+Yeni istemci bağlandı.
+İstemci ayrıldı: /127.0.0.1
